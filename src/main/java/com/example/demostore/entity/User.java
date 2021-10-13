@@ -1,7 +1,6 @@
 package com.example.demostore.entity;
 
 import java.io.Serializable;
-
 public class User  extends BaseEntity implements Serializable {
     private Integer uid;
     private String username;
